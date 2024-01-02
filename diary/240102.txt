@@ -1,0 +1,13 @@
+속성: 태그의 심화된 문법
+이미지를 넣는 태그: img
+<img src="coding.jpg" width="100%">   Attribute 속성
+순서는 상관없어
+부모(parent),자식(child)
+<li> 리스트의 부모 <ul>
+<ol>은 숫자를 알아서 붙여줌
+ol= Ordered list ul= unOrdered  list
+한글을 안꺠지게 하는법 = <meta charset="utf-8">
+본문은 body태그 본문을 설명하는 태그는 head 태그
+body 태그와 head 태그를 감싸는 하나의 태그는 html 태그
+<a>태그는 링크를 거는 태그
+target="_blank"는 링크를 클릭했을 때 새창에서 페이지가 열리게 하는 속성
